@@ -1,4 +1,9 @@
-# React Projects
+# Branch Owner: Michael Shalewski
+## Purpose: Northwestern Mutual "hi Tech" education
+
+I will be following alongside the Udemy course as I complete these React programs. I hope to build a strong foundational understanding of ReactJS syntax, and obtain a working knowledge to later implement into personal projects.
+
+### React Projects
 
 #### React Course
 
